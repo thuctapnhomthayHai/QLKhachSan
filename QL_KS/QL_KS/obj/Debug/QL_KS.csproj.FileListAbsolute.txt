@@ -89,3 +89,6 @@ C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmTh
 C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThuePhong.resources
 C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.Properties.Resources.resources
 C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.Cache
+D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
