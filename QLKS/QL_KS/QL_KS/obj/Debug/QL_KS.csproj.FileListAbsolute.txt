@@ -71,3 +71,6 @@ E:\TTN\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.cache
 E:\TTN\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.CoreCompileInputs.cache
 E:\TTN\QL_KS\QL_KS\obj\Debug\QL_KS.exe
 E:\TTN\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\dell\Documents\GitHub\QLKhachSan\QLKS\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+C:\Users\dell\Documents\GitHub\QLKhachSan\QLKS\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+C:\Users\dell\Documents\GitHub\QLKhachSan\QLKS\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
