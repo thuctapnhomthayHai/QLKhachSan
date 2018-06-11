@@ -89,6 +89,7 @@ C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmTh
 C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThuePhong.resources
 C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.Properties.Resources.resources
 C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\Hung Nguyen\Desktop\TTCSDL\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
 C:\Users\Hung Nguyen\Desktop\TTCSDL\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.exe
 C:\Users\Hung Nguyen\Desktop\TTCSDL\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.pdb
@@ -108,3 +109,11 @@ C:\Users\Hung Nguyen\Desktop\TTCSDL\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.cspro
 C:\Users\Hung Nguyen\Desktop\TTCSDL\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.CoreCompileInputs.cache
 C:\Users\Hung Nguyen\Desktop\TTCSDL\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.exe
 C:\Users\Hung Nguyen\Desktop\TTCSDL\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+=======
+D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\dell\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+C:\Users\dell\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+C:\Users\dell\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+>>>>>>> 1d0bcff2a519a030978feed3347cb6c671f654db
