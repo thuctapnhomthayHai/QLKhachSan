@@ -13,6 +13,7 @@ namespace QL_KS.GUI
 {
     public partial class frmPhong : Form
     {
+        private int index = 0;
         private DAL_Phong dal_Ph = new DAL_Phong();
         private EC_Phong ec_Ph = new EC_Phong();
         private DataTable tblPhong = new DataTable();

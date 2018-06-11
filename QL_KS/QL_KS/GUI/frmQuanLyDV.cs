@@ -12,6 +12,7 @@ namespace QL_KS.GUI
 {
     public partial class frmQuanLyDV : Form
     {
+        private int index = 0;
         private DAL_DichVu DAL_DV = new DAL_DichVu();
         private EC_DichVu EC_DV = new EC_DichVu();
         private bool _them = false;
