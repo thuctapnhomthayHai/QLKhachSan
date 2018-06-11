@@ -92,3 +92,6 @@ C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.Ge
 D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
 D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.exe
 D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\dell\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+C:\Users\dell\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+C:\Users\dell\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
