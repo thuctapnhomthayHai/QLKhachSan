@@ -71,3 +71,24 @@ D:\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.cache
 D:\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.CoreCompileInputs.cache
 D:\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.exe
 D:\GitHub\QL_KS\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.exe
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.pdb
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.csprojResolveAssemblyReference.cache
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.frmLogin.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmMain.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmNhanvien.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmPhong.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyDV.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmQuanLyKhachHang.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmSuDungDV.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThanhToan.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThietBi.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.GUI.frmThuePhong.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.Properties.Resources.resources
+C:\Users\tobmo\Documents\GitHub\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.csproj.GenerateResource.Cache
+D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\bin\Debug\QL_KS.exe.config
+D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.exe
+D:\Kỳ 6\Thực tập nhóm_TH14\QLKhachSan\QL_KS\QL_KS\obj\Debug\QL_KS.pdb
