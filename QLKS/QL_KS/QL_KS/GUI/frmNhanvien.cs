@@ -19,6 +19,7 @@ namespace QL_KS.GUI
         private bool _kochon;
         private bool _them = false;
         private bool _suangs = false;
+        private int a = 0;
         public frmNhanvien()
         {
             InitializeComponent();
@@ -61,7 +62,7 @@ namespace QL_KS.GUI
             }
             //lstDanhSachNV.SelectedIndex = 0;
             //DataTable a = DAL_NV.ThongTinNV(lstDanhSachNV.Text);
-            //txtHoTen.Text = a.Rows[1].ToString();
+            
         }
         private void btnThemTK_Click(object sender, EventArgs e)
         {
